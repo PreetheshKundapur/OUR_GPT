@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <div className="h-10/12 px-4 flex flex-col items-center justify-center">
       <p className="mb-4 text-center text-3xl lg:text-4xl font-medium text-indigo-400">Hello, {user}</p>
-      <h1 className='text-center text-3xl lg:text-5xl font-bold text-gray-300'>What can I help with?</h1>
+      <h1 className='text-center text-3xl lg:text-5xl font-bold text-gray-300'>What’s on your mind today?</h1>
     </div>
   )
 }

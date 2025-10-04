@@ -48,7 +48,7 @@ export default function Sign() {
                     >Welcome! Join now to chat with your personal AI assistant.</h1>
             </div>
             <div className="lg:w-4/12 w-full h-full flex flex-col items-center justify-center">
-                <h1 className="text-center mb-2 font-bold text-3xl text-gray-700">Sign in to <span className="text-indigo-800">QChat</span></h1>
+                <h1 className="text-center mb-2 font-bold text-3xl text-gray-700">Sign in to <span className="text-indigo-800">OUR-GPT</span></h1>
                 <p className="font-medium mb-4 text-center text-gray-600 text-sm">Please enter your sign in details to begin using the app.</p>
                 <form onSubmit={formik.handleSubmit} className="w-full px-2 mt-6 flex flex-col text-base font-medium text-gray-700">
                     <label htmlFor="">

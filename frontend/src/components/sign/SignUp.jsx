@@ -59,7 +59,7 @@ export default function SignUp() {
             </div>
             <div className="lg:w-4/12 w-full h-full flex flex-col items-center justify-center">
                 <div className="mb-2 font-bold text-3xl text-gray-700">
-                <h1 className="text-center mb-2 font-bold text-3xl text-gray-700">Sign up to <span className="text-indigo-800">QChat</span></h1>                    
+                <h1 className="text-center mb-2 font-bold text-3xl text-gray-700">Sign up to <span className="text-indigo-800">OUR-GPT</span></h1>                    
                 <p className="font-medium mb-4 text-center text-gray-500 text-sm">Please enter your sign up details to create a new account.</p>
                     <form onSubmit={formik.handleSubmit} className="w-full mt-10 px-2 flex flex-col text-base font-medium text-gray-700">
                         <label htmlFor="">
