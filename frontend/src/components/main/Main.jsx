@@ -39,6 +39,7 @@ export default function Main({showThread, setShowThread}) {
             dispatch(setThreads(threads));
             dispatch(setHeader(token));
             dispatch(setIsLogedIn(true));
+            dispatch(setUser(valTokenReq.data.user));
           }
         }
       } catch(err) {
