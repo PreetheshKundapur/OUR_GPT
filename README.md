@@ -1,3 +1,9 @@
+🧠 OUR-GPT — Conversational AI Agent
+
+Production Link: Live Demo
+
+GitHub Repo: OUR-GPT
+
 🚀 Overview
 
 OUR-GPT is a web-based AI conversational assistant built using the OpenAI API for natural language processing.
@@ -22,21 +28,3 @@ Backend	Node.js, Express.js
 Database	MongoDB Atlas
 AI/NLP	OpenAI API (GPT models)
 Deployment	Render (GCP-ready)
-
-Deployment
-
-The project is fully containerized and cloud-portable.
-
-Easily deploy to Render, GCP, Vercel, or AWS.
-
-Environment variables ensure secure and configurable deployment.
-
-🧪 Future Enhancements
-
-🔍 Context-aware multi-turn conversation memory
-
-🗣️ Voice input/output integration
-
-🌎 Multi-language support
-
-🧰 Admin dashboard for usage analytics
