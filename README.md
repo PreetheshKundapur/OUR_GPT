@@ -41,8 +41,11 @@ Environment variables ensure secure and configurable deployment.
 
 🔍 Context-aware multi-turn conversation memory
 
-🗣️ Voice input/output integration
+🗣️ Voice input/output integration (in process not yet deployed)
 
-🌎 Multi-language support
+🌎 Multi-model support
+
+🧰 Admin can alter the length of the answer 
 
 🧰 Admin dashboard for usage analytics
+
