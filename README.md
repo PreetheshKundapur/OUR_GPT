@@ -47,5 +47,5 @@ Environment variables ensure secure and configurable deployment.
 
 🧰 Admin can alter the length of the answer 
 
-🧰 Admin dashboard for usage analytics
+🧰 Admin dashboard for usage analytics.
 
